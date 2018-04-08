@@ -6,3 +6,5 @@ This WordPress plugin adds a code editor field type to [Advanced Custom Fields](
 
 - [Advanced Custom Fields](http://www.advancedcustomfields.com).
 - [ACE Code Editor](http://ace.c9.io)
+
+Forked on 4/7/2018 by Dave Navarro, Jr.
